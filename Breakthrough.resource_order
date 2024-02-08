@@ -20,6 +20,7 @@
     {"name":"obj_ball","order":1,"path":"objects/obj_ball/obj_ball.yy",},
     {"name":"obj_bat","order":2,"path":"objects/obj_bat/obj_bat.yy",},
     {"name":"spr_bat","order":2,"path":"sprites/spr_bat/spr_bat.yy",},
+    {"name":"obj_control","order":3,"path":"objects/obj_control/obj_control.yy",},
     {"name":"spr_ball","order":1,"path":"sprites/spr_ball/spr_ball.yy",},
   ],
 }
