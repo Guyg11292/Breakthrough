@@ -3,8 +3,10 @@ draw_text(8, 8, "Score: " + string(global.player_score));
 draw_set_halign(fa_right);
 draw_text(room_width-8, 8, "Score: " + string(global.high_score));
 
-_x = room_width/2 - (global.player_lives * 32)
-draw_set_halign(fa_left)
+draw_set_halign(fa_left);
+
+_x = room_width/2 - ((global.player_lives-1) * 32);
+
 repeat(global.player_lives){
 	draw_sprite_ext(
 		spr_bat, 
