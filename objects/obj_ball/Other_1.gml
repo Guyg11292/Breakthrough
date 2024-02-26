@@ -16,4 +16,4 @@ if(bbox_bottom > room_height){
 		}
 	} else {
 		instance_create_layer(xstart, ystart, "Instances", obj_ball);
-	}
+	}}
