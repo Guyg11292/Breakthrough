@@ -17,7 +17,9 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_powers","order":4,"path":"objects/obj_powers/obj_powers.yy",},
     {"name":"obj_ball","order":1,"path":"objects/obj_ball/obj_ball.yy",},
+    {"name":"spr_powers","order":3,"path":"sprites/spr_powers/spr_powers.yy",},
     {"name":"obj_bat","order":2,"path":"objects/obj_bat/obj_bat.yy",},
     {"name":"spr_bat","order":2,"path":"sprites/spr_bat/spr_bat.yy",},
     {"name":"obj_control","order":3,"path":"objects/obj_control/obj_control.yy",},
