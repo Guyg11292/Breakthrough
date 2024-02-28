@@ -7,6 +7,6 @@ if(image_index == 0){
 } else {
 	with(obj_ball){
 		speed = spd;
+	}
 }
-
 instance_destroy();
