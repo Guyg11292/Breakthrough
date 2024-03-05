@@ -16,12 +16,16 @@ if room == rm_game
 {
 if score >= 2000
     {
-    audio_play_sound(snd_breakthrough, 1, false);
+    audio_play_sound(snd_breakthrough, 1, false
     room_goto(rm_win);
     }
 if lives <= 0
     {
-    audio_play_sound(snd_breakthrough, 1, false);
+    audio_play_sound(snd_breakthrough, 1, false;
     room_goto(rm_gameover);
     }
+while score >= 10
+	{
+	room_goto(rm_game)
+	}
 }
